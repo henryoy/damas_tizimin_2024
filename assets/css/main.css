@@ -876,7 +876,7 @@ ol {
 }
 .img-t{
   text-align: center;
-  height: 400px;
+  height: calc(40vh);
 }
 .table-list{
   text-align: left;
@@ -1844,8 +1844,8 @@ ol {
   visibility: visible;
 }
 #map {
-  width: calc(90vw);
-  height: calc(60vh);
+  width: calc(60vw);
+  height: calc(40vh);
   background-color: #018bff;
 }
 
