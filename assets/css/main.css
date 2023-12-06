@@ -1844,7 +1844,7 @@ ol {
   visibility: visible;
 }
 #map {
-  width: calc(60vw);
+  width: calc(90vw);
   height: calc(40vh);
   background-color: #018bff;
 }
